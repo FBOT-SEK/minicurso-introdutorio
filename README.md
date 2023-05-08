@@ -41,7 +41,7 @@ Para carregar os mapas no gearsbot, apenas selecionar a opção **Load from file
 * Download dos mapas: [Desafios fbot.zip](https://github.com/FBOT-SEK/desafios/files/11424899/Desafios.fbot.zip)<br />
 * Apresentação: [Slide](https://docs.google.com/presentation/d/1jPHZM_YEZqBGG7dLjz-BFM2F5Pugwf0iRePhnMiuXgo/edit?usp=sharing)<br /><br /><br />
 Também temos como material de apoio: <br />
-  * ***Apostila com um [curso de Python](https://docs.google.com/document/d/1fTTOTRq3PZ1Q_6zR8TGkZjO2mYMDYaezx-h-ZLQpPlE/edit)*** ***, escrita por: Rebekah Veiga, Nicolle Ribeiro e Diogo Guimarães;*** <br />
+  * ***Apostila [Curso de Python](https://docs.google.com/document/d/1fTTOTRq3PZ1Q_6zR8TGkZjO2mYMDYaezx-h-ZLQpPlE/edit)*** ***, escrita por: Rebekah Veiga, Nicolle Ribeiro e Diogo Guimarães;*** <br />
   * ***Apostila [Pensamento Computacional](https://github.com/FBOT-SEK/desafios/files/11425739/Apostila_Pensamento_Computacional.pdf).***<br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
 
