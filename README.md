@@ -4,7 +4,7 @@
 Sejam bem-vindos ao minicurso de introdução à robótica do Furgbot! Aqui vocês encontrarão todo o material necessário para o andamento do curso.
   >Ocorrerá em três das diferentes, sendo estes 09, 10 e 11 (maio).
   >>Serão passados um exercício introdutório a Python além de outros 3 desafios utilizando o simulador
-
+<br /><br /><br />
 
 ### Desafio 1
 <img src="https://user-images.githubusercontent.com/86270082/236907185-b35511f2-2eea-45ac-9a01-272ebb5065cf.png" height="400" width="750"> <br />
