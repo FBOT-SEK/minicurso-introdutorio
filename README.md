@@ -2,8 +2,8 @@
 
 ## Boas-vindas!
 Sejam bem-vindos ao minicurso de introdução à robótica do Furgbot! Aqui vocês encontrarão todo o material necessário para o andamento do curso.
-  >O evento ocorrerá em três dias diferentes, sendo estes 09, 10 e 11 (maio).
-  >>Serão passados um exercício introdutório a Python (dentro do slide de apresentação) além de outros 3 desafios utilizando o simulador
+  >***O evento ocorrerá em três dias diferentes, sendo estes 09, 10 e 11 (maio).***
+  >>***Serão passados um exercício introdutório a Python (dentro do slide de apresentação) além de outros 3 desafios utilizando o simulador***
 
 
 -----------------------------------------------
