@@ -1,4 +1,4 @@
-<h1 align="center"> Desafios do minicurso FBOT </h1>
+<h1 align="center"> Minicurso introdutório à robótica FBOT </h1>
 
 ## Boas-vindas!
 Sejam bem-vindos ao minicurso de introdução à robótica do Furgbot! Aqui vocês encontrarão todo o material necessário para o andamento do curso.
