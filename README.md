@@ -11,7 +11,6 @@ Sejam bem-vindos ao minicurso de introdução a robótica do Furgbot! Aqui você
 
 -----------------------------------------------
 
-<br />
 ### Desafio 1
 <img src="https://user-images.githubusercontent.com/86270082/236907185-b35511f2-2eea-45ac-9a01-272ebb5065cf.png" height="400" width="750"> <br />
 
@@ -30,9 +29,17 @@ Sejam bem-vindos ao minicurso de introdução a robótica do Furgbot! Aqui você
 
 -----------------------------------------------
 
+## Seleção dos mapas e robôs
+
 ### Mapa    
-Para carregar os mapas no gearsbot, apenas selecionar a opção **Load from file* no menu *Worlds**<br />
-![open-menu](https://user-images.githubusercontent.com/31012982/176166348-935b6a34-e980-4a68-8d4e-9fea656bc18c.png)
+Para carregar os mapas no GearsBot, basta selecionar a opção ***Load from file*** no menu ***Worlds***<br />
+![open-menu](https://user-images.githubusercontent.com/31012982/176166348-935b6a34-e980-4a68-8d4e-9fea656bc18c.png)<br /><br />
+
+
+### Robô
+Para selecionar um robô no GearsBot, basta selecionar a opção ***Select Robot*** no menu ***Worlds***<br />
+![image](https://github.com/FBOT-SEK/minicurso-introdutorio/assets/86270082/539eaede-f482-4b99-932b-16ca202d26bd)
+
 
 -----------------------------------------------
 
@@ -45,9 +52,13 @@ Para carregar os mapas no gearsbot, apenas selecionar a opção **Load from file
 * Apresentação: [Slide](https://docs.google.com/presentation/d/1jPHZM_YEZqBGG7dLjz-BFM2F5Pugwf0iRePhnMiuXgo/edit?usp=sharing)<br /><br /><br />
 Também temos como material de apoio: <br />
   * ***Apostila [Curso de Python](https://docs.google.com/document/d/1fTTOTRq3PZ1Q_6zR8TGkZjO2mYMDYaezx-h-ZLQpPlE/edit)*** ***, escrita por: Rebekah Veiga, Nicolle Ribeiro e Diogo Guimarães;*** <br />
-  * ***Apostila [Pensamento Computacional](https://github.com/FBOT-SEK/desafios/files/11425739/Apostila_Pensamento_Computacional.pdf).***<br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+  * ***Apostila [Pensamento Computacional](https://github.com/FBOT-SEK/desafios/files/11425739/Apostila_Pensamento_Computacional.pdf).***<br /><br /><br />
 
+-----------------------------------------------
 
+### Upload dos desafios resolvidos
+Criamos uma pasta no Google Drive para que você possa upar suas resoluções. Dentro deste Drive você deve `criar uma pasta com seu nome e sobrenome` e upar os códigos dos seus desafios nomeados como: `Exercício Python, Desafio 1, Desafio 2 e Desafio 3` lá! Os desafios podem ser upados como <ins>.doc</ins> para que não haja necessidade de baixá-los.<br /><br />
+ * ***Link do Drive: [Resoluções dos desafios](https://drive.google.com/drive/folders/1HUzLQag5H1U0g6fx-7YeC5Tr_IEt8hq9?usp=sharing)***<br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
 
 
