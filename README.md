@@ -1,13 +1,16 @@
-<h1 align="center"> Minicurso de introdução à robótica FBOT </h1>
+<h1 align="center"> Minicurso de introdução a robótica FBOT </h1>
 
 ## Boas-vindas!
-Sejam bem-vindos ao minicurso de introdução à robótica do Furgbot! Aqui vocês encontrarão todo o material necessário para o andamento do curso.
-  >***O evento ocorrerá em três dias diferentes, sendo estes 09, 10 e 11 (maio).***
+Sejam bem-vindos ao minicurso de introdução a robótica do Furgbot! Aqui vocês encontrarão todo o material necessário para o andamento do curso.<br /><br />
+***Caso você não pôde comparecer presencialmente ou queira revisar o conteúdo, não tem problema! Você pode assistir aos vídeos que gravamos explicando o simulador e os materiais do curso!***<br /><br /><b />
+`vamos atualizando com novos vídeos conforme o andamento do curso e avisando vocês no grupo do whatsapp!`
+  * Módulo 1 (introdução a Python): https://www.youtube.com/watch?v=o3U1480ow2Q<b /><b />
+  >***O evento ocorrerá em três dias diferentes, sendo estes 09, 10 e 11 (maio) às 19:30.***
   >>***Serão passados um exercício introdutório a Python (dentro do slide de apresentação) além de outros 3 desafios utilizando o simulador***
 
 
 -----------------------------------------------
-
+<b /><b /><b />
 
 ### Desafio 1
 <img src="https://user-images.githubusercontent.com/86270082/236907185-b35511f2-2eea-45ac-9a01-272ebb5065cf.png" height="400" width="750"> <br />
@@ -50,7 +53,7 @@ Também temos como material de apoio: <br />
 
 # Contribuidores :shipit:
 
-| [<img src="https://avatars.githubusercontent.com/u/86270082?v=4" width=90><br><sub>Maurício Valadão</sub>](https://github.com/mvalado) |  [<img src="https://avatars.githubusercontent.com/u/61145169?v=4" width=90><br><sub>Rebekah Veiga</sub>](https://github.com/rebekahveiga) |  [<img src="https://avatars.githubusercontent.com/u/106852957?v=4" width=90><br><sub>Jordan Zitzke</sub>](https://github.com/JordanZitzke) |  [<img src="https://avatars.githubusercontent.com/u/89225783?v=4" width=90><br><sub>Marcone Marques</sub>](https://github.com/Marcone-Sudo) |  [<img src="https://avatars.githubusercontent.com/u/89019869?v=4" width=90><br><sub>João Pedro Kwecko</sub>](https://github.com/jpkwecko) |
+| [<img src="https://avatars.githubusercontent.com/u/86270082?v=4" width=90><br><sub>Maurício Valadão</sub>](https://github.com/mvalado) |  [<img src="https://avatars.githubusercontent.com/u/61145169?v=4" width=90><br><sub>Rebekah Veiga</sub>](https://github.com/rebekahveiga) |  [<img src="https://avatars.githubusercontent.com/u/106852957?v=4" width=90><br><sub>Jordan Zitzke</sub>](https://github.com/JordanZitzke) |  [<img src="https://avatars.githubusercontent.com/u/89225783?v=4" width=90><br><sub>Marcone Marques</sub>](https://github.com/Marcone-Sudo) |  [<img src="https://user-images.githubusercontent.com/86270082/236988613-ece6c4e2-c1e3-4e07-86ef-5f4655312187.png" width=90><br><sub>João Pedro Kwecko</sub>](https://github.com/jpkwecko) |
 | :---: | :---: | :---: | :---: | :---: |
 
 <br /><br /><br /><br /><br /><img src="https://user-images.githubusercontent.com/86270082/236948273-0f74609a-67c8-470c-abf7-31ae90589645.png" height="100" width="100">
