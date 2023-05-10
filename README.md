@@ -4,7 +4,9 @@
 Sejam bem-vindos ao minicurso de introdução a robótica do Furgbot! Aqui vocês encontrarão todo o material necessário para o andamento do curso.<br /><br />
 ***Caso você não pôde comparecer presencialmente ou queira revisar o conteúdo, não tem problema! Você pode assistir aos vídeos que gravamos explicando o simulador e os materiais do curso!***<br /><br /><b />
 `vamos atualizando com novos vídeos conforme o andamento do curso e avisando vocês no grupo do whatsapp!`
-  * Módulo 1 (introdução a Python): https://www.youtube.com/watch?v=o3U1480ow2Q<br /><br />
+  * Módulo 1 (introdução a Python): https://www.youtube.com/watch?v=o3U1480ow2Q
+  * Módulo 2 (trabalhando com o ev3dev): https://www.youtube.com/watch?v=kg3I16Y_Jj4
+  * Módulo 3 (tutorial do simulador - GearsBot): https://www.youtube.com/watch?v=eYwjr4hwVBM<br /><br />
   >***O evento ocorrerá em três dias diferentes, sendo estes 09, 10 e 11 (maio) às 19:30.***
   >>***Serão passados um exercício introdutório a Python (dentro do slide de apresentação) além de outros 3 desafios utilizando o simulador***
 
