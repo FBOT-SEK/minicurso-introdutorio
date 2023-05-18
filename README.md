@@ -65,7 +65,6 @@ Criamos uma pasta no Google Drive para que você possa upar suas resoluções. D
 ***<ins>Pista da competição - LARC</ins>: [Desafio LARC.zip](https://github.com/FBOT-SEK/minicurso-introdutorio/files/11503446/Desafio.LARC.zip)***<br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
 
-[Desafio LARC.zip](https://github.com/FBOT-SEK/minicurso-introdutorio/files/11503446/Desafio.LARC.zip)
 
 # Contribuidores :shipit:
 
