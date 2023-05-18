@@ -51,8 +51,7 @@ Para selecionar um robô no GearsBot, basta selecionar a opção ***Select Robot
 * Simulador: [GearsBot](https://gears.aposteriori.com.sg/)<br />
 * Documentação: [python-ev3dev](https://ev3dev-lang.readthedocs.io/projects/python-ev3dev/en/stable/spec.html)<br />
 * Download dos mapas: [Desafios fbot.zip](https://github.com/FBOT-SEK/desafios/files/11424899/Desafios.fbot.zip)<br />
-* Apresentação: [Slide](https://docs.google.com/presentation/d/193Fi6slgssXuS8JF_ulYqWQeXJpy1YK6xzDScSEisG4/edit?usp=sharing)<br />
-* Pista do desafio - LARC: [Pista-Versão-1.2-Duplo.zip](https://github.com/FBOT-SEK/minicurso-introdutorio/files/11498482/Pista-Versao-1.2-Duplo.zip)<br /><br /><br />
+* Apresentação: [Slide](https://docs.google.com/presentation/d/193Fi6slgssXuS8JF_ulYqWQeXJpy1YK6xzDScSEisG4/edit?usp=sharing)<br /><br /><br />
 Também temos como material de apoio: <br />
   * ***Apostila [Curso de Python](https://docs.google.com/document/d/1fTTOTRq3PZ1Q_6zR8TGkZjO2mYMDYaezx-h-ZLQpPlE/edit)*** ***, escrita por: Rebekah Veiga, Nicolle Ribeiro e Diogo Guimarães;*** <br />
   * ***Apostila [Pensamento Computacional](https://github.com/FBOT-SEK/desafios/files/11425739/Apostila_Pensamento_Computacional.pdf).***<br /><br /><br />
@@ -61,9 +60,12 @@ Também temos como material de apoio: <br />
 
 ### Upload dos desafios resolvidos
 Criamos uma pasta no Google Drive para que você possa upar suas resoluções. Dentro deste Drive você deve `criar uma pasta com seu nome e sobrenome` e upar os códigos dos seus desafios nomeados como: `Exercício Python, Desafio 1, Desafio 2 e Desafio 3` lá! Os desafios podem ser upados como <ins>.doc</ins> para que não haja necessidade de baixá-los.<br /><br />
- * ***Link do Drive: [Resoluções dos desafios](https://drive.google.com/drive/folders/1HUzLQag5H1U0g6fx-7YeC5Tr_IEt8hq9?usp=sharing)***<br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+ * ***Link do Drive: [Resoluções dos desafios](https://drive.google.com/drive/folders/1HUzLQag5H1U0g6fx-7YeC5Tr_IEt8hq9?usp=sharing)***<br /><br />
+
+***<ins>Pista da competição - LARC</ins>: [Desafio LARC.zip](https://github.com/FBOT-SEK/minicurso-introdutorio/files/11503446/Desafio.LARC.zip)***<br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
 
+[Desafio LARC.zip](https://github.com/FBOT-SEK/minicurso-introdutorio/files/11503446/Desafio.LARC.zip)
 
 # Contribuidores :shipit:
 
