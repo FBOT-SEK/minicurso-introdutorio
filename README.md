@@ -31,16 +31,19 @@ Sejam bem-vindos ao minicurso de introdução a robótica do Furgbot! Aqui você
 
 -----------------------------------------------
 
-## Seleção dos mapas e robôs
+## Simulador
+Na aba ***<ins>Python</ins>*** você pode inserir o seu código no simulador. Ele já vem com a biblioteca ev3dev2 e suas importações prontas, é só começar o seu código. <br />
+<img src="https://github.com/FBOT-SEK/Pista_LARC_2023/assets/86270082/6fae852e-ea4e-484f-ada1-61c453471c46" width="500">
+<br /><br />
 
-### Mapa    
-Para carregar os mapas no GearsBot, basta selecionar a opção ***Load from file*** no menu ***Worlds***<br />
+
+### Seleção do mapa
+Para carregar a pista no GearsBot, basta selecionar a opção ***Load from file*** no menu ***<ins>Worlds</ins>***<br />
 ![open-menu](https://user-images.githubusercontent.com/31012982/176166348-935b6a34-e980-4a68-8d4e-9fea656bc18c.png)<br /><br />
 
-
-### Robô
-Para selecionar um robô no GearsBot, basta selecionar a opção ***Select Robot*** no menu ***Worlds***<br />
-![image](https://github.com/FBOT-SEK/minicurso-introdutorio/assets/86270082/539eaede-f482-4b99-932b-16ca202d26bd)
+### Seleção do robô
+Para selecionar um robô no GearsBot, basta selecionar a opção ***Select Robot*** no menu ***<ins>Robot</ins>***<br />
+![image](https://github.com/FBOT-SEK/minicurso-introdutorio/assets/86270082/539eaede-f482-4b99-932b-16ca202d26bd)<br /><br /><br />
 
 
 -----------------------------------------------
@@ -62,7 +65,6 @@ Também temos como material de apoio: <br />
 Criamos uma pasta no Google Drive para que você possa upar suas resoluções. Dentro deste Drive você deve `criar uma pasta com seu nome e sobrenome` e upar os códigos dos seus desafios nomeados como: `Exercício Python, Desafio 1, Desafio 2 e Desafio 3` lá! Os desafios podem ser upados como <ins>.doc</ins> para que não haja necessidade de baixá-los.<br /><br />
  * ***Link do Drive: [Resoluções dos desafios](https://drive.google.com/drive/folders/1HUzLQag5H1U0g6fx-7YeC5Tr_IEt8hq9?usp=sharing)***<br /><br />
 
-***<ins>Pista da competição - LARC</ins>: [Desafio LARC.zip](https://github.com/FBOT-SEK/minicurso-introdutorio/files/11503446/Desafio.LARC.zip)***<br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
 
 
@@ -71,5 +73,7 @@ Criamos uma pasta no Google Drive para que você possa upar suas resoluções. D
 | [<img src="https://avatars.githubusercontent.com/u/86270082?v=4" width=90><br><sub>Maurício Valadão</sub>](https://github.com/mvalado) |  [<img src="https://avatars.githubusercontent.com/u/61145169?v=4" width=90><br><sub>Rebekah Veiga</sub>](https://github.com/rebekahveiga) |  [<img src="https://avatars.githubusercontent.com/u/106852957?v=4" width=90><br><sub>Jordan Zitzke</sub>](https://github.com/JordanZitzke) |  [<img src="https://avatars.githubusercontent.com/u/89225783?v=4" width=90><br><sub>Marcone Marques</sub>](https://github.com/Marcone-Sudo) |  [<img src="https://user-images.githubusercontent.com/86270082/236988613-ece6c4e2-c1e3-4e07-86ef-5f4655312187.png" width=90><br><sub>João Pedro Kwecko</sub>](https://github.com/jpkwecko) |
 | :---: | :---: | :---: | :---: | :---: |
 
-<br /><br /><br /><br /><br /><img src="https://user-images.githubusercontent.com/86270082/236948273-0f74609a-67c8-470c-abf7-31ae90589645.png" height="100" width="100">
+<br /><br /><br /><br /><br />
+| [<img src="https://user-images.githubusercontent.com/86270082/236948273-0f74609a-67c8-470c-abf7-31ae90589645.png" height="110" width="110"><br><sub>Equipe FBOT</sub>](https://www.instagram.com/furgbot/) |
+| :---: |
 
